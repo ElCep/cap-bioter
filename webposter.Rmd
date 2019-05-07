@@ -1,0 +1,66 @@
+---
+title: "[Territoires en transition] CAP>BIOMASSE ET CAP-BOIS-ENERGIE"
+description: | 
+  2 jeux participatifs en miroir pour aborder la complexite et la multidimensionnalite des enjeux lie s a la transition e nerge tique des territoires
+date: mai 5, 2019
+author:
+  - name: "Jérémy Ferrante"
+    affiliation: Indépendant
+  - name: "Juliette Cerceau"
+    affiliation: UMR Pacte
+    affiliation_url: https://www.pacte-grenoble.fr/membres/juliette-cerceau
+  - name: "William’s Daré"
+    affiliation: CIRAD - UPR GREEN
+    affiliation_url: https://ur-green.cirad.fr/
+  - name: "Etienne Delay"
+    affiliation: CIRAD - UPR GREEN
+    affiliation_url: https://ur-green.cirad.fr/
+output: radix::radix_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Contexte
+
+La transition énergétique passera par une mobilisation accrue des biomasses. Elle implique une réorganisation multidimensionnelle et complexe des territoires : prélèvement de nouveaux gisements (biomasse forestière, biomasse agricole, biomasse urbaine), perturbation
+potentielle des milieux (forestié, sols, eau), développement de nouvelles filières potentiellement concurrentes aux activités existantes, nouvelles coopérations questionnant les modes de gouvernance territoriale et implantation de nouvelles infrastructures soulevant des enjeux d’acceptabilite sociale. Elle implique en outre une diversite de parties prenantes (agriculteurs, exploitants forestiers, collectivités, industries agroalimentaires, etc.) qui ne sont pas toujours en capacité d’aborder ces enjeux de manière transversale. La simulation participative reposant sur un équilibre fragile entre complexité et généricité , cette multi-dimensionnalite et cette pluralité d’acteurs rendent impossible la prise en compte de l’ensemble de ces enjeux dans un seul et unique jeu serieux.
+
+## Deux jeux pour refléchir de nouvelles filières
+
+### CAP>BOIS-ENERGIE
+CAP>BOIS-ENERGIE est un jeu de plateau qui aborde les questions liées a la mobilisation des biomasses forestie res en re ponse au développement des filières boise nergie.
+
+Au nombre de 8, les joueurs se répartissent les « Rôles »: propriétaires forestiers privés ou public,représentant du Parc, représentant d’une collectivite , transporteur, négociant, scieur et artisan.
+
+A chaque tour, a l’aide des cartes « Activités », les joueurs doivent mettre en œuvre leur « Stratégie », en appliquant des actions obligatoires et en envisageant des actions comple mentaires. L’ensemble des flux ge ne re s par les « Activités », représente s par des jetons de couleur diffe rente selon la qualite du bois, doit trouver un « Débouché » en vue de ge ne rer de la « Richesse territoriale. » Tout est négociable et chaque joueur doit parvenir a maximiser ces gains lors de ces transactions.
+
+La « Richesse » peut ếtre investie dans de nouvelles « Installations » individuelles ou collectives de stockage (stock, plateforme de se chage) et de valorisation des biomasses. (chaufferies). Des indicateurs permettent de suivre les impacts des actions individuelles et collectives sur le territoire: re duction des e missions de GES, qualite sylvicole des forêts, production d’énergie renouvelables.
+
+### CAP>BIOMASSE
+CAP>BIOMASSE est un jeu de plateau qui aborde les enjeux liés a la mobilisation des biomasses agricoles, agroalimentaires et urbaines en reponse au de veloppement des filieres de compostage et de me thanisation.
+
+Au nombre de 9, les joueurs se répartissent les « Rôles »: gestionnaire des de chets, responsable de station d’e puration, agriculteurs et e leveurs dont la taille des exploitations varient.
+
+A chaque rôle, correspondent des « Activités » qui ge ne rent des flux, symbolise s par des jetons: des « Besoins » a approvisionner (amendements organiques, litie re animale) et des « Sous-produits » a valoriser (pailles, fumier, de chets fermentescibles, boues de STEP...).
+
+Ces activite s génèrent des « Richesses territoriales » représentées par des billes de verre qui permettent d’investir dans de nouvelles infrastructures (me thaniseur a la ferme, me thaniseur collectif, plateforme de compostage, etc.) et le de veloppement des activités (conversion en bio, passage en CIVE, etc.).
+
+
+## Une multidimensionnalité appréhendée à dires d’acteurs
+
+La complexite des enjeux lie s a la transition e nerge tique est rendue manifeste a travers la façon dont les acteurs de territoire les traduisent dans leurs discours.
+
+Dans le cadre du projet [CAP-BIOTER](https://www.pacte-grenoble.fr/programmes/projet-cap-bioter) (2016-2019), cofinancé par l’[ADEME](https://www.ademe.fr/) et
+coordonné par le laboratoire PACTE de l’Universite Grenoble Alpes, 150 entretiens ont été mené s auprés d’acteurs parties prenantes de la transition énergétique et des enjeux
+de mobilisation des biomasses en particulier sur 3 territoires d’expérimentation: les
+réserves de biosphère du Luberon-Lure, des Cévennes et de Fontainebleau-Gatinais.
+
+L’analyse lexicométrique des retranscriptions de ces entretiens a permis de mettre en
+évidence que la structuration des dires d’acteurs s’organisent autour de deux classes
+lexicales révélatrices de deux sous-systèmes territoriaux: celui relatif à la biomasse
+agricole et agroalimentaire, celui relatif à la biomasse forestière.
+
+## Remerciements
+![logos](./img/affiliation.png)
